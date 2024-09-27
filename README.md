@@ -1,7 +1,5 @@
 # Talabat - E-Commerce Application
 
-![Talabat Logo](path/to/logo.png) <!-- Optional: Add a logo for your project -->
-
 ## Overview
 
 I’m thrilled to announce the successful completion of my ASP.NET API project: **“Talabat,”** a comprehensive e-commerce application developed with the invaluable guidance of Route Instructor Aliaa Tarek. 
